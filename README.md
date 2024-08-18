@@ -93,4 +93,6 @@ username
 
 This project is licensed under the MIT License.
 
-This is the last test in the Back End Development and APIs Projects course at freeCodeCamp. Please do not copy my code.
+This is the last test in the Back End Development and APIs Projects course at freeCodeCamp. Please do not copy my code if solving the test.
+
+Test URL: https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker
