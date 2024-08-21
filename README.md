@@ -2,6 +2,10 @@
 
 This project is an Exercise Tracker API built with Node.js, Express, and MongoDB. It allows users to create accounts, log exercises, and retrieve exercise logs with optional filtering.
 
+[Project Demo](https://exercise-tracker-hrk-2942297fa708.herokuapp.com)
+
+[Examp Requirements](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/exercise-tracker)
+
 ## Features
 
 - Create a new user
